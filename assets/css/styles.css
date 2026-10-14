@@ -166,6 +166,9 @@ td:first-child{color:var(--txt);font-weight:600}
 .c-card a{color:var(--amber);text-decoration:none;word-break:break-all}
 footer{background:#050508;border-top:1px solid #fbbf2422;border-top:1px solid #fbbf2422;padding:44px 5%;text-align:center;color:#777;font-size:.88rem}
 footer .flogo{color:var(--amber);font-weight:800;font-size:1.05rem;margin-bottom:8px}
+footer .credit{margin-top:10px;font-size:.8rem;color:#8a8a94}
+footer .credit a{color:#c9a253;text-decoration:none}
+footer .credit a:hover{color:var(--amber);text-decoration:underline}
 
 /* ---------- Project pages ---------- */
 .proj-hero{min-height:62vh;padding:135px 5% 60px}

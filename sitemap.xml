@@ -1,24 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mishkatsobahan.github.io/index.html</loc>
+    <loc>https://mishkatsobahan.github.io/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://mishkatsobahan.github.io/gallery.html</loc>
-  </url>
-  <url>
-    <loc>https://mishkatsobahan.github.io/projects/computer-lab-wiring.html</loc>
-  </url>
-  <url>
-    <loc>https://mishkatsobahan.github.io/projects/lighting-signbox.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://mishkatsobahan.github.io/projects/motor-controlling-lab.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://mishkatsobahan.github.io/projects/motor-rewinding-lab.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mishkatsobahan.github.io/projects/computer-lab-wiring.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mishkatsobahan.github.io/projects/cctv-infrastructure.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://mishkatsobahan.github.io/projects/residential-wiring.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mishkatsobahan.github.io/projects/lighting-signbox.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
